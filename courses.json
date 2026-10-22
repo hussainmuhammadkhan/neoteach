@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Introduction to AI",
+    "description": "Learn the fundamentals of Artificial Intelligence and its applications.",
+    "keywords": "AI, Machine Learning, Neural Networks",
+    "category": "AI & Machine Learning",
+    "level": "Beginner",
+    "creator": "64fb1a2b5c1234567890abcd",
+    "aiContent": {
+      "summary": "A beginner-friendly AI course covering core concepts and practical applications.",
+      "topics": ["AI Basics", "History of AI", "AI Applications", "Supervised Learning", "Unsupervised Learning"],
+      "quizzes": [{"lesson":1,"title":"AI Basics Quiz","questions":5}]
+    }
+  },
+  {
+    "title": "Web Development Bootcamp",
+    "description": "Full-stack web development course covering frontend and backend technologies.",
+    "keywords": "HTML, CSS, JavaScript, Node.js, MongoDB",
+    "category": "Web Development",
+    "level": "Intermediate",
+    "creator": "64fb1a2b5c1234567890abce",
+    "aiContent": {
+      "summary": "Comprehensive course on modern web development with hands-on projects.",
+      "topics": ["HTML & CSS", "JavaScript Basics", "Frontend Frameworks", "Backend with Node.js", "Database Integration"],
+      "quizzes": [{"lesson":2,"title":"JavaScript Quiz","questions":10}]
+    }
+  },
+  {
+    "title": "Mobile App Development with Flutter",
+    "description": "Learn to build beautiful and responsive mobile applications using Flutter.",
+    "keywords": "Flutter, Dart, Mobile Development",
+    "category": "Mobile Development",
+    "level": "Intermediate",
+    "creator": "64fb1a2b5c1234567890abcd",
+    "aiContent": {
+      "summary": "Build cross-platform mobile apps with Flutter, including UI design and state management.",
+      "topics": ["Dart Basics", "Flutter Widgets", "State Management", "API Integration", "Deploying Apps"],
+      "quizzes": [{"lesson":3,"title":"Flutter Widgets Quiz","questions":8}]
+    }
+  },
+  {
+    "title": "Data Science with Python",
+    "description": "Learn data analysis, visualization, and machine learning using Python.",
+    "keywords": "Python, Data Analysis, Pandas, NumPy, Machine Learning",
+    "category": "Data Science",
+    "level": "Advanced",
+    "creator": "64fb1a2b5c1234567890abcf",
+    "aiContent": {
+      "summary": "An advanced course on data science, machine learning, and Python programming.",
+      "topics": ["Python Basics", "Data Analysis", "Data Visualization", "Machine Learning Algorithms", "Project Work"],
+      "quizzes": [{"lesson":4,"title":"Data Analysis Quiz","questions":12}]
+    }
+  },
+  {
+    "title": "Cybersecurity Essentials",
+    "description": "Understand the fundamentals of cybersecurity and best practices for protection.",
+    "keywords": "Cybersecurity, Network Security, Ethical Hacking",
+    "category": "Cybersecurity",
+    "level": "Beginner",
+    "creator": "64fb1a2b5c1234567890abce",
+    "aiContent": {
+      "summary": "Learn how to secure systems, networks, and data against cyber threats.",
+      "topics": ["Security Basics", "Network Security", "Cryptography", "Ethical Hacking", "Incident Response"],
+      "quizzes": [{"lesson":1,"title":"Security Basics Quiz","questions":6}]
+    }
+  },
+  {
+    "title": "Cloud Computing with AWS",
+    "description": "Learn cloud fundamentals and deploy applications on AWS cloud platform.",
+    "keywords": "AWS, Cloud Computing, DevOps",
+    "category": "Cloud Computing",
+    "level": "Intermediate",
+    "creator": "64fb1a2b5c1234567890abcd",
+    "aiContent": {
+      "summary": "Hands-on course to learn cloud computing, AWS services, and deployment strategies.",
+      "topics": ["Cloud Basics", "AWS EC2 & S3", "Serverless Architecture", "Deploying Applications", "Monitoring & Security"],
+      "quizzes": [{"lesson":2,"title":"AWS Services Quiz","questions":10}]
+    }
+  }
+]

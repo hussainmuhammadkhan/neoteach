@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Name",
+    "email": "name@example.com",
+    "password": "$2a$10$7q1ZpXyYqW1xj0QeZ1u1xeWwG0nZlD91z9c9E6U9FfCkS8ZlF2nGq",
+    "role": "student"
+  },
+  {
+    "name": "Mustafa",
+    "email": "mustafa@example.com",
+    "password": "$2a$10$C9xNqj1l1f8eB7rZpM5qeOqZT5B3N4xvA2kU1fQ6sP2dW8JpM3rFq",
+    "role": "teacher"
+  },
+  {
+    "name": "Murtaza",
+    "email": "murtaza@example.com",
+    "password": "$2a$10$L2dF1rQ7ZcK0vU5xS6pReeUqX3fE1nH8jM9rX2tF5sY7pV6L4nT1G",
+    "role": "student"
+  },
+  {
+    "name": "Yatoof",
+    "email": "yatoof@example.com",
+    "password": "$2a$10$Qw9nK8dR7pT2jE3xL5yUeF1gH6sR3vZ2aX5bC8dP0qL4sJ9mT1hG",
+    "role": "teacher"
+  },
+  {
+    "name": "Hanain",
+    "email": "hanain@example.com",
+    "password": "$2a$10$R7pT2jE3xL5yUeF1gH6sR3vZ2aX5bC8dP0qL4sJ9mT1hG8dK3fG",
+    "role": "student"
+  }
+]

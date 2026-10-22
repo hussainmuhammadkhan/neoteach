@@ -1,0 +1,18 @@
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Dependencies
+node_modules/
+
+# Files not to upload
+auth.js
+videoRoutes.js
+
+# Local logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
